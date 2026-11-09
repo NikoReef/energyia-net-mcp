@@ -1,0 +1,8 @@
+{
+  "name": "energyia-net",
+  "description": "EnergyIA.NET: official oil, gas and mining data of the countries of America, comparable country by country (production by country, operator, field and mine; mining; refineries; gas flaring; electricity; energy and mining vessels at terminals from public AIS signals), normalized and cited with source and period. Remote MCP server with OAuth; read-only.",
+  "version": "1.0.0",
+  "author": { "name": "Nicolás Matías Chiarini", "url": "https://energyia.net" },
+  "homepage": "https://energyia.net",
+  "mcpServers": "./.mcp.json"
+}

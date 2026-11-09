@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "energyia-net": {
+      "type": "http",
+      "url": "https://energyia.net/conectar-mi-ia"
+    }
+  }
+}
